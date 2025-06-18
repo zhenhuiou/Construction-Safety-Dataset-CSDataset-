@@ -13,7 +13,7 @@ We introduce a large-scale, multi-level dataset for construction safety analysis
 
 ---
 
-## 🎯 Task 1: Injury Severity Prediction
+## Injury Severity Prediction
 
 The task is to predict the **severity level** of each construction incident (1–4), based on both structured tabular features and unstructured text descriptions.
 
