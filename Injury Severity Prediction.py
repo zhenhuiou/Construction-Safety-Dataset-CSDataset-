@@ -19,7 +19,7 @@ df = pd.read_excel("Injury Severity.xlsx")
 df = df.rename(columns=lambda x: x.strip()) 
 
 assert "degree_of_inj_x" in df.columns, "Target column 'degree_of_inj_x' no exist"
-df = df.dropna(subset=["degree_of_inj_x"])  # 丢弃无标签行
+df = df.dropna(subset=["degree_of_inj_x"])  
 
 y = df["degree_of_inj_x"]
 X = df.drop(columns=["degree_of_inj_x"])
