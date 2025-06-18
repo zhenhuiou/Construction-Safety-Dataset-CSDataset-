@@ -1,0 +1,1000 @@
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: nan
+- City: YOUNGSTOWN, State: OH, ZIP: 44503.0
+- Temperature: 275.11 °F, Humidity: 51.0 %
+- Inspection Year: 2021, Month: 2
+- Incident Abstract: At 5:00 p.m. on February 4, 2021, an employee was working for a firm that manufa ctured fabricated structural metal. He was performing abrasive blasting with ste el shot. He was wearing a supplied air respirator (SAR). While using the supplie d air hood, he lost consciousness. A pressure testing operation downstream on th e plant air line allowed nitrogen to backfill into the compressed air line. This test introduced an asphyxiant into the system. The employee was killed.
+
+Prediction:
+1
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 446.0
+- City: MODESTO, State: CA, ZIP: 95350.0
+- Temperature: 296.64 °F, Humidity: 44.0 %
+- Inspection Year: 2020, Month: 7
+- Incident Abstract: At 8:00 a.m. on July 11, 2020, ten healthcare employees were hospitalized and di agnosed with COVID-19. One employee died with COVID-19 infection.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: nan
+- City: LENOIR CITY, State: TN, ZIP: 37772.0
+- Temperature: 293.27 °F, Humidity: 53.0 %
+- Inspection Year: 2016, Month: 3
+- Incident Abstract: At approximately 10:30 a.m. on March 24, 2016, an employee was sitting on a ladd er.  The employee fell from the ladder to the concrete ground below, and was kil led as a result of multiple skull fractures.
+
+Prediction:
+1
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 479.0
+- City: ESTELLINE, State: SD, ZIP: 57234.0
+- Temperature: 285.35 °F, Humidity: 94.0 %
+- Inspection Year: 2020, Month: 9
+- Incident Abstract: At 1:30 p.m. on September 11, 2020, Employee # 1 was working within a grain bin. He was pulled into the grain as it was being unloaded, from the bottom of the b in. He was killed in an engulfment in grain.
+
+Prediction:
+1
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 889.0
+- City: ENID, State: OK, ZIP: 73701.0
+- Temperature: 267.08 °F, Humidity: 47.0 %
+- Inspection Year: 2019, Month: 3
+- Incident Abstract: At 6:23 p.m. on March 4, 2019, Employee #1 and #2 were installing a wrap around a ventilation pipe. There were vapors leaking from the tank while they worked. T he vapors were ignited causing a fire and explosion. The top of the tank blew of f, striking the employees. Employee #1 was killed and Employee #2 was hospitaliz ed to treat unspecified injuries.
+
+Prediction:
+1
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 889.0
+- City: CLAYTON, State: OH, ZIP: 45315.0
+- Temperature: 278.09 °F, Humidity: 80.0 %
+- Inspection Year: 2017, Month: 1
+- Incident Abstract: At 11:00 a.m. on January 10, 2017, an employee was walking and was struck by a s tandup truck. The employee suffered a fractured right ankle.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 889.0
+- City: WILMINGTON, State: CA, ZIP: 90744.0
+- Temperature: 293.17 °F, Humidity: 89.0 %
+- Inspection Year: 2019, Month: 8
+- Incident Abstract: At 11:45 p.m. on August 28, 2019, two employees were working on a scissor lift e xtended approximately fifteen in the air to access the spindle of a manual rolli ng door of a warehouse to remove it. The forks of a forklift were raised to the bottom of the spindle so that it could be lowered by the forks and not free fall to the ground. The employees secured the spindle to the forks with a heavy chai n however, as the employees were removing the last bolt, they had to remove the chain to access the bolt. The employees did not replace the chain as the bolt wa s removed. As Employee #1 removed the bolt with a tile bar, the spindle came off the wall with enough force to bounce off the forks and the wall before hitting the ground and striking the scissor lift. The spindle knocked the scissor lift t o the asphalt with the employees on it. Emergency services were notified, arrive d on site, stabilized the employees and transported them to a local medical cent er. Employee #1 was treated for broken ribs and a broken back and underwent surg ery for the injury to his back and was released from the hospital on September 6 , 2019. Employee #2 was treated and underwent surgery for a broken foot.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: nan
+- City: FAIRPORT, State: NY, ZIP: 14450.0
+- Temperature: 268.84 °F, Humidity: 74.0 %
+- Inspection Year: 2018, Month: 12
+- Incident Abstract: At 8:05 a.m. on December 7, 2018, an employee was using a hydraulic press and wa s adjusting a part when it cycled, catching his thumb.  The employee amputated h is finger above the first joint.  Hospitalization was not required.
+
+Prediction:
+3
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 0.0
+- City: COLLEGE PARK, State: GA, ZIP: 30349.0
+- Temperature: 278.99 °F, Humidity: 57.0 %
+- Inspection Year: 2018, Month: 1
+- Incident Abstract: At 10:00 a.m. on January 25, 2018, Employees #1, #2, and #3, employed by a utili ty services company, were installing underground conduit for a pipeline.  They w ere pulling wires when an arc flash occurred at a switchgear box.  Emergency ser vices were called, and the three employees were transported to the hospital.  Al l were hospitalized and treated for severe burns to the face, head, chest, and a rm.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 7010.0
+- City: FLUSHING, State: NY, ZIP: 11355.0
+- Temperature: 279.96 °F, Humidity: 49.0 %
+- Inspection Year: 2017, Month: 11
+- Incident Abstract: At 11:15 a.m. on November 17, 2017, Employee #1, employed by a construction comp any, was working at a job site.  He was walking alongside a concrete finishing m achine when he fell and grabbed the machine.  Employee #1's finger was amputated .  Emergency services were called, and Employee #1 was transported to the hospit al, admitted, and treated for the amputation.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 889.0
+- City: MAIDENS, State: VA, ZIP: 23102.0
+- Temperature: 286.51 °F, Humidity: 82.0 %
+- Inspection Year: 2017, Month: 12
+- Incident Abstract: At 9:45 a.m. on December 5, 2017, Employee #1 standing in area where overhead li mb was cut. The limb was approximately 10 feet long by 7.5 inches thick.  The fa ll distance of limb was approximately 20 feet. Employee #1 was struck in the hea d behind the left ear by tree limb and hospitalized.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 479.0
+- City: PIXLEY, State: CA, ZIP: 93256.0
+- Temperature: 293.65 °F, Humidity: 50.0 %
+- Inspection Year: 2015, Month: 5
+- Incident Abstract: At approximately 10:23 a.m. on May 23, 2015, Employee #1 was operating a quad AT V in an almond orchard.  He was not wearing his required head protection.  He lo st control of the ATV when he went through a wet, muddy area and struck a tree. Employee #1 struck his head and was killed.
+
+Prediction:
+1
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 534.0
+- City: CEDAR RAPIDS, State: IA, ZIP: 52406.0
+- Temperature: 268.68 °F, Humidity: 87.0 %
+- Inspection Year: 2022, Month: 1
+- Incident Abstract: At 8:00 a.m. on January 24, 2022, an employee was performing filter maintenance on an air handling unit. The metal door he had propped open with his shoulder slipped and slammed shut on his right hand. The employee suffered a fingertip amputation of the right hand middle finger.   The employee was hospitalized.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 785.0
+- City: CEDAR RAPIDS, State: IA, ZIP: 52406.0
+- Temperature: 298.29 °F, Humidity: 82.0 %
+- Inspection Year: 2018, Month: 6
+- Incident Abstract: At 5:20 a.m. on June 18, 2018, Employee #1 was performing function tests and air leak checks on a newly assembled vacuum, Model number 9215LDV. As the employee was running his left hand around the blower motor to check for leaks, his finger came in contact with the spinning fan of the blower motor. He sustained a parti al amputation to his left hand index finger.
+
+Prediction:
+3
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 889.0
+- City: WILTON, State: CT, ZIP: 6897.0
+- Temperature: 295.95 °F, Humidity: 79.0 %
+- Inspection Year: 2019, Month: 6
+- Incident Abstract: At 6:38 p.m. on June 5, 2019, an employee and a coworker were conducing ash tree trimming operations. The coworker maneuvered the vehicle-mounted aerial lift ov er power lines to reach the trees when the lower boom section came into contact with an energized 13.8 kilovolt (kV) powerline. The coworker called to the emplo yee on the ground to get a rope. As the employee left to get a rope, he touched the truck and the truck sparked as the employee froze and fell back onto the gro und. The employee was severely shocked causing burns and required hospitalizatio n.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 0.0
+- City: CHESTER, State: OK, ZIP: 73838.0
+- Temperature: 293.01 °F, Humidity: 90.0 %
+- Inspection Year: 2017, Month: 8
+- Incident Abstract: At 1:30 a.m. on August 27, 2017, Employee #1 was holding a pair of tongs when th e crown caught the tong wire and pulled the employee into the air. The employee fell 10 feet, and suffered broken ribs and a punctured lung. Employee #1 was hos pitalized for his injuries.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 7045.0
+- City: AMESBURY, State: MA, ZIP: 1913.0
+- Temperature: 279.21 °F, Humidity: 87.0 %
+- Inspection Year: 2018, Month: 11
+- Incident Abstract: At 3:00 p.m. on November 26, 2018, Employee #1 was engaged in roofing activity f or a new one-story residential structure.  The employee fell, a fall height of 1 0 feet, and the side of his body impacted the ground.  The employee received med ical treatment for body pain but was not hospitalized.
+
+Prediction:
+3
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: nan
+- City: QUEEN CITY, State: TX, ZIP: 75572.0
+- Temperature: 285.27 °F, Humidity: 93.0 %
+- Inspection Year: 2019, Month: 1
+- Incident Abstract: At 1:56 p.m. on January 16, 2019, an employee was staging a patch for the blowdo wn header in the power house when he was caught by an uncontrolled release of st eam, sustaining second degree burns to approximately 50 percent of his body.  Th e employee was hospitalized.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 999.0
+- City: TRABUCO CANYON, State: CA, ZIP: 92679.0
+- Temperature: 297.45 °F, Humidity: 67.0 %
+- Inspection Year: 2013, Month: 6
+- Incident Abstract: At approximately 3:00 p.m. on June 28, 2013, Employee #1, a field technician, of  Deerpoint Group, Inc. experienced symptoms of heat illness while in the course  of his normal work duties. The employee became ill while collecting almond tree  leaves for sampling. Employee #1 was taken to an area medical facility, where he  was treated and released.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 567.0
+- City: INDIO, State: CA, ZIP: 92203.0
+- Temperature: 282.53 °F, Humidity: 61.0 %
+- Inspection Year: 2017, Month: 1
+- Incident Abstract: At approximately 8:00 a.m. on January 31, 2017, Employee #1 was sawing plywood w hen the plywood jammed.  He used his hand to unjam the plywood instead of a push stick.  He contacted the saw blade which amputated two fingers. Employee #1 was not hospitalized.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 363.0
+- City: KENNER, State: LA, ZIP: 70065.0
+- Temperature: 298.96 °F, Humidity: 88.0 %
+- Inspection Year: 2017, Month: 10
+- Incident Abstract: At 7:19 p.m. on October 15, 2017, an employee and another worker were standing on a walkway at the top of the test tank, and the other six (6) coworkers were in the living quarters.  The living quarters is adjacent to the test tank. An explosion occurred in the test tank and a fire ensued. An employee sustained burns, fractures, hearing loss, vision impairment, and foreign bodies in the eye(s).
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: nan
+- City: BARODA, State: MI, ZIP: 49101.0
+- Temperature: 278.11 °F, Humidity: 99.0 %
+- Inspection Year: 2018, Month: 4
+- Incident Abstract: At 3:45 p.m. on April 3, 2018, an employee pressed the ladle button and was stru ck by molten metal, suffering third degree burns to his back.  The employee was hospitalized.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 0.0
+- City: PANAMA CITY, State: FL, ZIP: 32405.0
+- Temperature: 306.47 °F, Humidity: 54.0 %
+- Inspection Year: 2019, Month: 6
+- Incident Abstract: At 12:15 p.m. on June 26, 2019, and employee was sanding a plate when his hand s lipped and got caught in the sander. The employee partially amputated his finger in the sanding belt requiring medical treatment.  The employee was not hospital ized.
+
+Prediction:
+3
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 637.0
+- City: WARREN, State: OH, ZIP: 44481.0
+- Temperature: 287.9 °F, Humidity: 67.0 %
+- Inspection Year: 2017, Month: 5
+- Incident Abstract: At approximately 10:30 a.m. on May 22, 2017, Employee #1 was changing out an aug er on a Larry car, which was a car that would travel on rails and be equipped on its underside with a hopper. The car was used to charge coke ovens from above. Employees were hoisted up the auger as they were leveling it off, it swung forwa rd. Employee #1 attempted to move his hand out of the way, but the auger struck and caught his middle and index fingertips and amputated them. Employee #1 was t ransported to a medical center, where he received treatment and was then hospita lized.
+
+Prediction:
+3
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 575.0
+- City: CANFIELD, State: OH, ZIP: 44406.0
+- Temperature: 276.13 °F, Humidity: 89.0 %
+- Inspection Year: 2020, Month: 2
+- Incident Abstract: At 9:30 a.m. on February 3, 2020, an employee working as an electrician for a metal engraving company was working from a ladder. The employee was looking for a motor when he fell off the ladder. The employee fractured his leg and required hospitalization.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 779.0
+- City: STOCKTON, State: CA, ZIP: 95205.0
+- Temperature: nan °F, Humidity: nan %
+- Inspection Year: 2017, Month: 8
+- Incident Abstract: On August 23, 2017, an employee was cutting PVC pipe using an abrasive cut-off machine.  The employee reached under the saw from the right side to pull on a pipe and stepped on the foot pedal at the same time.  The employee suffered an amputation to their right hand thumb when he was struck by the machine's blade and was hospitalized.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 805.0
+- City: COLUMBUS, State: OH, ZIP: 43215.0
+- Temperature: 289.84 °F, Humidity: 84.0 %
+- Inspection Year: 2019, Month: 9
+- Incident Abstract: On September 5, 2019, an employee was stepping off his parked NISSAN Model MCPL02A25LV forklift just as a coworker was backing his forklift into a parking spot. As the the employee left his vehicle, the counterweight from the coworker's forklift struck him in the lower left leg. The employee sustained a soft injury to his leg that resulted in traumatic compartment injury and required hospitalization. The employee did not fracture his leg, but was hospitalized from August 30, 2019 until September 18, 2019.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 808.0
+- City: MASPETH, State: NY, ZIP: 11378.0
+- Temperature: 287.55 °F, Humidity: 80.0 %
+- Inspection Year: 2020, Month: 5
+- Incident Abstract: At 9:00 a.m. on May 3, 2020, an employee who had worked as a Bus Driver for a me tropolitan transportation company died from COVID-19. The employee had been out sick since March 24, 2020 when he notified the employer of a COVID-19 positive t est result. The date, time and other details leading up to exposure are not indi cated in the narrative. Information regarding engineering, administrative and pe rsonal protective equipment controls for COVID-19 are also not included in the n arrative.
+
+Prediction:
+1
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 567.0
+- City: MERIDIAN, State: MS, ZIP: 39307.0
+- Temperature: 302.15 °F, Humidity: 78.0 %
+- Inspection Year: 2018, Month: 8
+- Incident Abstract: At 7:30 p.m. on August 7, 2018, Employee #1, employed by a construction company, was hospitalized after a day working outdoors in the heat, clearing a site for a new commercial building.  During the workday, he had shown signs of heat-relat ed illness, but after cooling off in the job trailer had resumed work.  His symp toms of illness returned after his return home and he was transported to the hos pital, where he was admitted and treated for dehydration. dehydration.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 785.0
+- City: PARLIER, State: CA, ZIP: 93648.0
+- Temperature: 277.34 °F, Humidity: 59.0 %
+- Inspection Year: 2020, Month: 12
+- Incident Abstract: At approximately 7:00 a.m. on December 9, 2020, an employee worked as a box asse mbler.  The employee became ill and went home. The employee was admitted to the hospital on November 25, 2020, and tested positive for COVID-19 infection. The e mployee died on December 9, 2020.
+
+Prediction:
+1
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 276.0
+- City: SAN DIEGO, State: CA, ZIP: 92113.0
+- Temperature: 292.66 °F, Humidity: 63.0 %
+- Inspection Year: 2017, Month: 3
+- Incident Abstract: At 2:45 or 2:50 p.m. on March 18, 2017, an employee was working for a general li ne grocery merchant wholesaler. She was a meat clerk in the meat department. At the time of the incident, she was assisting a customer who wanted a rack of pork shoulders cut. She was using a Hobart meat saw to cut the rack of shoulders in to four parts. At the time of the incident, five workers were working in the mea t department. Two were certified meat cutters. Her supervisor was about 18.3 met ers (60 feet) away helping another customer at the time of the incident. The emp loyee was experienced in operating the meat saw, but due to a company safety pol icy change, she had been instructed not to operate the meat saw. She had always asked one to the certified meat cutters for help in cutting meat. This time, she assumed the customer's request was a small enough task that she could handle it . She took it upon herself to cut the meat. She made the first cut without incid ent. When she was performing the final cut, though, a piece of fat got caught on the blade and jerked the meat. When the employee tried to pull the meat back, h er left thumb came into contact with the blade. The tip of her left thumb was in jured. She was taken to the hospital, where a partial amputation was performed a s part of the surgery procedure. The employer reported the event to the Division at 4:48 p.m. on Monday, March 20, 2017. The Division opened an inspection at 2: 30 p.m. on March 24, 2017. The employee stated during interviews after the incid ent that she was aware that it was against company policy for her to operate the meat saw. meat saw.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 889.0
+- City: MONTGOMERY, State: AL, ZIP: 36109.0
+- Temperature: 278.97 °F, Humidity: 65.0 %
+- Inspection Year: 2019, Month: 1
+- Incident Abstract: At 10:00 a.m. on January 25, 2019, an employee was ripping plywood on table saw and amputated the tip of his finger when it struck the saw blade.  The employee was hospitalized.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 686.0
+- City: PENDLETON, State: OR, ZIP: 97801.0
+- Temperature: 306.88 °F, Humidity: 14.0 %
+- Inspection Year: 2017, Month: 7
+- Incident Abstract: At 2:00 p.m. on July 29, 2017, an employee was cutting a thin cut of sirloin usi ng the band saw.  The meat rolled and the employee's right knuckle hit the movin g blade, causing a laceration with a torn ligament. The employee was hospitalize d and treated for his injuries.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: nan
+- City: KAILUA KONA, State: HI, ZIP: 96740.0
+- Temperature: 299.09 °F, Humidity: 76.0 %
+- Inspection Year: 2020, Month: 5
+- Incident Abstract: At 11:45 a.m. on May 4, 2020, Employee #1 and a Coworker, employed by a construc tion company, were working at a heavy construction project.  Employee #1, wishin g to speak with his coworker, drove a Polaris General 1000 ATV and parked it 10 to 15 feet from a moving Hitachi ZX350LC-6N excavator being operated by the cowo rker.  The coworker was unable to stop the excavator due to a spray can that had become jammed behind the left travel lever and accelerator pedal.  The excavato r struck and ran over the ATV's driver side.  Employee #1 sustained crushing inj uries and was killed.
+
+Prediction:
+1
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 804.0
+- City: WATFORD CITY, State: ND, ZIP: 58854.0
+- Temperature: 274.4 °F, Humidity: 92.0 %
+- Inspection Year: 2016, Month: 11
+- Incident Abstract: At 8:30 a.m. on November 11, 2016, an employee was pumping salt water brine, whe n he had a heart attack and died.
+
+Prediction:
+1
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 785.0
+- City: DALLAS, State: TX, ZIP: 75223.0
+- Temperature: 307.28 °F, Humidity: 46.0 %
+- Inspection Year: 2018, Month: 6
+- Incident Abstract: At 12:30 p.m. on June 29, 2018, an employee was using a table saw to notch a 2x4 piece of wood. While cutting the wood, the employee's left middle finger contac ted the blade of the saw and was amputated.
+
+Prediction:
+3
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 999.0
+- City: WILSON, State: NC, ZIP: 27893.0
+- Temperature: 278.15 °F, Humidity: 100.0 %
+- Inspection Year: 2021, Month: 12
+- Incident Abstract: At 12:00 a.m. on December 16, 2021, an employee was fatally struck by a loader while the employee was directing the driver of a tanker truck. The aisle that the employee was standing in was being shared by a tanker truck and a loader. The employee was transported to the Vidant Medical Center, where he was later pronounced dead.
+
+Prediction:
+1
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 0.0
+- City: CHAMPAIGN, State: IL, ZIP: 61820.0
+- Temperature: 263.2 °F, Humidity: 62.0 %
+- Inspection Year: 2017, Month: 2
+- Incident Abstract: At 5:00 a.m. on February 9, 2017, an employee was using a stand-up forklift to l oad a truck with materials from a warehouse. As he drove between the aisles of t he warehouse, the controls of the forklift began to malfunction. The employee wa s unable to control the vehicle properly, including slowing its speed or stoppin g. Unable to stop the forklift, the employee stuck his left foot out to stop the forklift. He sustained broken toes on his left foot, and he was hospitalized fo r his injuries.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: nan
+- City: LIMA, State: OH, ZIP: 45802.0
+- Temperature: 262.6 °F, Humidity: 73.0 %
+- Inspection Year: 2020, Month: 2
+- Incident Abstract: At 10:15 a.m. on February 14, 2020, an employee working for a paper manufacturer was starting a new paper roll on the CR1 machine. The employee was standing behind the final roll and using his hands to tuck a new edge of the paper onto the new core. At the same time, a coworker started the machine initiating the rotation of the roller. As a result, both of the employee's arms were pulled into the paper and roller. The employee was able to remove his right arm, but his left arm was pulled all the way in, resulting in breaks to his arm. The employee was taken to the hospital via ambulance and admitted for more than 2 weeks with broken bones to his arm.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 865.0
+- City: BALTIMORE, State: MD, ZIP: 21215.0
+- Temperature: 297.44 °F, Humidity: 24.0 %
+- Inspection Year: 2016, Month: 4
+- Incident Abstract: At 12:00 p.m. on April 19, 2016, Employee #1 and a coworker were removing dirt f rom a trench that measured 10.25 feet deep. While Employee #1 used a shovel to s coop the dirt from the trench, the coworker was instructed to lower the bucket o f a backhoe into the trench, where the dirt would be placed. As the coworker ope rated the backhoe controls, he unintentionally maneuvered the bucket  in a forwa rd direction, striking Employee #1 and pinning him between the bucket and the tr ench wall.  Employee #1 died as a result of his injuries. The incident investiga tion revealed that the coworker was untrained in the operation of the backhoe. operation of the backhoe.
+
+Prediction:
+1
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 856.0
+- City: DETROIT, State: MI, ZIP: 48211.0
+- Temperature: nan °F, Humidity: nan %
+- Inspection Year: 2019, Month: 7
+- Incident Abstract: An employee was operating a powered industrial truck (PIT) transporting a 55-gallon drum of acetic acid on a pallet when he ran over a hole in the floor and the drum fell. The drum was damaged and spilled acid out onto the ground. The employee attempted to roll the drum and fell into the acid incurring second degree chemical burns on his lower body and requiring hospitalization.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 567.0
+- City: LOS ANGELES, State: CA, ZIP: 90033.0
+- Temperature: 296.53 °F, Humidity: 27.0 %
+- Inspection Year: 2015, Month: 12
+- Incident Abstract: At 11:00 a.m. on December 9, 2015, an employee was looking at plans on a roof. T he employee fell through a 38-in. by 38-in. roof opening, which was divided into two parts by a two by four making one side of the opening 38-in. by 14-in. and the other side 38-in. by 24-in.. The employee fell 40 feet through the larger op ening and suffered from blunt force trauma. The employee was killed. killed.
+
+Prediction:
+1
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 599.0
+- City: TULSA, State: OK, ZIP: 74101.0
+- Temperature: 308.79 °F, Humidity: 42.0 %
+- Inspection Year: 2018, Month: 7
+- Incident Abstract: At 1:30 p.m. on July 11, 2018, Employee #1 and coworkers, employed by a construc tion company, finished paving work on a cement curb at a one-story commercial bu ilding.  Employee #1 became ill and was transported to the hospital.  He was adm itted and treated for a possible heat stroke.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 889.0
+- City: ONTARIO, State: CA, ZIP: 91761.0
+- Temperature: 291.28 °F, Humidity: 60.0 %
+- Inspection Year: 2017, Month: 11
+- Incident Abstract: At 8:45 a.m. on November 7, 2017, an employee was cleaning alloy metal rings. As she worked to move a standing alloy metal ring piece, weighing approximately 60 0 pounds, from a 2 inch by 4 pinch pallet, the employee's middle and ring finger s on her left hand were crushed. As a result, her middle finger was amputated. finger was amputated.
+
+Prediction:
+3
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 416.0
+- City: FOLLANSBEE, State: WV, ZIP: 26037.0
+- Temperature: 299.31 °F, Humidity: 77.0 %
+- Inspection Year: 2018, Month: 8
+- Incident Abstract: At 12:25 p.m. on August 9, 2018, Employee #1 was trying to locate fire extinguishers at a customer site in order to inspect them for damage and place bar codes on them.The employee walked across a catwalk in an area that had been closed down for several years. He fell through a section of metal grating that was severely rusted, several feet, struck a metal fence and then slid down an angled steel beam. Employee #1 sustained a fractured back and was hospitalized. hospitalized.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: nan
+- City: FREEBURG, State: MO, ZIP: 65035.0
+- Temperature: 264.19 °F, Humidity: 86.0 %
+- Inspection Year: 2020, Month: 2
+- Incident Abstract: At 8:45 a.m. on February 13, 2020, an employee was helping to lean windows back to pull out another window when the windows fell on him. The employee was hospitalized to treat a fractured second lumbar vertebrae and laceration above left eye.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 999.0
+- City: BEND, State: OR, ZIP: 97701.0
+- Temperature: 277.83 °F, Humidity: 55.0 %
+- Inspection Year: 2019, Month: 2
+- Incident Abstract: At 2:30 p.m. on February 11, 2019, an employee was using an Ellis Manufacturing Company Model 2000 Mitre Band Saw to cut steel tubing. The employee stopped to w ipe down the tubing when his rag became caught pulling his right hand down the b lade. The employee's right pinky finger was partially amputated.  He was taken t o an urgent care center, where he received medical treatment.
+
+Prediction:
+3
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 889.0
+- City: ORLANDO, State: FL, ZIP: 32806.0
+- Temperature: 283.17 °F, Humidity: 63.0 %
+- Inspection Year: 2018, Month: 12
+- Incident Abstract: At 9:03 a.m. on December 6, 2018, an employee was cleaning out a drainage system with a water hose.  The employee positioned his body between the I beam and CNC machine and was hosing down the drainage ditch. The CNC machine was in operatio n and cycled for a tool change, crushing the employee between the I beam and mac hine.  He sustained a dislocation of his right arm and crushing injury to his ch est.  The employee was killed.
+
+Prediction:
+1
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 0.0
+- City: PORT ORANGE, State: FL, ZIP: 32128.0
+- Temperature: 294.31 °F, Humidity: 66.0 %
+- Inspection Year: 2022, Month: 2
+- Incident Abstract: At 10:15 a.m. on February 16, 2022, an employee was sitting in a chair in the landfill. The employee was run over by a bulldozer that operates in the landfill. The employee's body was crushed, and the employee was killed.
+
+Prediction:
+1
+
+--------------------------------------------------------------------------------
+You are an expert in construction safety and injury risk assessment. Given the following details from a construction accident report, analyze and predict the severity of the injury on a scale of 1 to 4, where:
+
+1 = No injury or minor,
+2 = Moderate injury,
+3 = Major injury,
+4 = Fatal.
+
+Take into account both the structured data (like weather conditions, job information) and the unstructured narrative (incident abstract). Pay special attention to clues indicating risk factors or severity.
+
+Input:
+- Job Title: 7026.0
+- City: REDONDO BEACH, State: CA, ZIP: 90278.0
+- Temperature: 284.8 °F, Humidity: 76.0 %
+- Inspection Year: 2021, Month: 12
+- Incident Abstract: At 9:45 a.m. on December 27, 2021, an employee was working for an importer and distributor of fresh produce. The firm had a cold storage warehouse where fresh vegetables and fruits were cut, bagged, and packaged. The bagged fresh vegetables and fruits were then shipped to big box retailers. The employee was a food cleanup worker. At approximately 9:30 a.m., she was in the production area to clean a Tucano bagging machine following a production run. She was putting a replacement trash bag in a trash receptacle. As she approached the bagging machine, she unintentionally stepped on a piece of asparagus on the floor. She tripped and lost her balance. Then she slipped and fell. Her right knee went out in front of her, and she fell onto her left knee on the concrete floor. She suffered a fractured left knee and a torn tendon. She was transported to the hospital, where she was hospitalized for more than twenty-four hours. The firm's human resource manager reported the accident to DOSH's Long Beach district office that same day. The incident was reported in a timely manner.
+
+Prediction:
+2
+
+--------------------------------------------------------------------------------
